@@ -12,4 +12,3 @@ High-throughput 3′ single-cell RNA-sequencing (scRNA-seq) allows cost-effectiv
 
 [Download paper here](http://duncanmorgan.github.io/files/NatImmunol2019.pdf)
 
-Recommended citation: Tu, A.A., Gierahn, T.M., Monian, B. et al. TCR sequencing paired with massively parallel 3′ RNA-seq reveals clonotypic T cell signatures. Nat Immunol 20, 1692–1699 (2019). https://doi.org/10.1038/s41590-019-0544-5
