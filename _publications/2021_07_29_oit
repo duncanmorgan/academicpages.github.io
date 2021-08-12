@@ -1,0 +1,13 @@
+---
+title: "Peanut oral immunotherapy differentially suppresses clonally distinct subsets of T helper cells"
+collection: publications
+permalink: https://www.nature.com/articles/s41590-019-0544-5
+excerpt: 
+date: 2021-07-29
+venue: 'medRXiv'
+paperurl: 'https://www.medrxiv.org/content/10.1101/2021.07.29.21261049v1'
+citation: 'Tu, A. A., Gierahn, T. M., Monian, B., Morgan, D. M., Mehta, N. K., Ruiter, B., Shreffler, W. G., Shalek, A. K., Love, J. C. (2019). &quot;TCR sequencing paired with massively parallel 3′ RNA-seq reveals clonotypic T cell signatures.&quot; <i>Nature Immunology </i>. <b> 20 </b> 1692-1699 (2019).'
+---
+Food allergy affects an estimated 8% of children in the US, with increasing severity and global prevalence. Oral immunotherapy (OIT) is a recently approved treatment with outcomes ranging from sustained tolerance to food allergen to no apparent benefit. The immunological underpinnings that influence clinical outcomes of OIT still remain largely unresolved. Using single-cell RNA sequencing and paired TCRα/β sequencing, we assessed the transcriptomes of CD154+ and CD137+ peanut-reactive T helper cells from 12 peanut-allergic patients longitudinally throughout OIT. We observed expanded populations of cells expressing Th1, Th2, and Th17 signatures that further separated into six clonally distinct subsets, including a Tfh1-like, a Tfh2-like, a Th2A-like, and a Th2reg-like subset. Four of these subsets demonstrated convergence of TCR sequences, suggesting antigen-driven T cell fate. Although we observed suppression during OIT of Th2 and Th1 gene signatures within effector clonotypes, Tfh clonotypes were unaffected. We also did not observe significant clonal deletion or induction among the antigen-reactive T cells characterized. Positive outcomes were associated with larger decrease of Th2 signatures in Th2A-like cells, while treatment failure was associated with high baseline inflammatory gene signatures that were unmodulated by OIT. These signatures, including expression of OX40, OX40L, STAT1, and GPR15, were most clearly present in Th1 and Th17 clonotypes, but were also more broadly detected across the CD154+ CD4 population. These results demonstrate that differential clinical response is associated both with pre-existing trait characteristics of the CD4 immune compartment and with susceptibility to modulation by OIT.
+[Download paper here](https://www.medrxiv.org/content/10.1101/2021.07.29.21261049v1)
+
