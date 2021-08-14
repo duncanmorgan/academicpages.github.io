@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Chemical Engineering, Chemistry, and Mathematics, Vanderbilt University, 2017
 * M.S. in Chemical Engineering Practice, Massachusetts Institute of Technology, 2019
-* Ph.D in Chemical Engineering, Massachusetts Institute of Technology, 2022 (expected)
+* Ph.D. in Chemical Engineering, Massachusetts Institute of Technology, 2022 (expected)
 
 Publications
 ======
