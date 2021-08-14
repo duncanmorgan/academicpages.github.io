@@ -1,7 +1,7 @@
 ---
 title: "Clonally expanded, GPR15-expressing pathogenic effector Th2 cells are associated with eosinophilic esophagitis"
 collection: publications
-permalink: /publications/2021_08_13-sciimmnol-eoe.md
+permalink: /publications/2021_08_14-sciimmnol-eoe.md
 excerpt: 
 date: 2021-08-13
 venue: 'Science Immunology'
