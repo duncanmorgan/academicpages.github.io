@@ -17,4 +17,4 @@ Before my Ph.D., I earned an M.S. in Chemical Engineering Practice from MIT’s 
 
 I received my B.E. in Chemical Engineering, Chemistry, and Mathematics from Vanderbilt University, where I conducted my honors thesis in the lab of Professor John T. Wilson and was honored with the Founder’s Medal for the School of Engineering.
 
-Outside the lab, I’m currently learning German, which has been an exciting way to stretch my brain and better connect with my German colleagues. To stay healthy and motivated, I train four times a week, with a goal of improving my half-marathon times one minute at a time.
+Outside the lab, I’m currently learning German, which has been an exciting way to stretch my brain and better connect with my German colleagues. To stay healthy and motivated, I run four times a week, with a goal of improving my half-marathon times one minute at a time.
