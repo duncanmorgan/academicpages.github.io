@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Duncan M. Morgan"
+title                    : "Dr. Duncan M. Morgan"
 title_separator          : "-"
 name                     : &name "Duncan M. Morgan"
-description              : &description "Ph.D. Candidate at Massachusetts Institute of Technology"
+description              : &description "Postdoctoral Scientist, BCRT and Harvard SEAS"
 url                      : https://duncanmorgan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "duncanmorgan/duncanmorgan.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Duncan M. Morgan"
   avatar           : "profile.jpeg"
-  bio              : "Chemical Engineering @ MIT"
-  location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  bio              : "Postdoctral Scientist, BCRT and Harvard SEAS"
+  location         : "Cambridge, MA / Berlin, DE"
+  employer         : "Harvard SEAS"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/31745340/"
   googlescholar    : "https://scholar.google.com/citations?user=_-jYs5UAAAAJ&hl=en"
-  email            : "dmmorgan at mit dot edu"
+  email            : "dmorgan at seas dot harvard dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
